@@ -39,3 +39,11 @@ android/build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Server logs and AI files
+server/*.log
+server/nohup.out
+ngrok.log
+
+# Environment variables
+.env
